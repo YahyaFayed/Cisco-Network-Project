@@ -36,13 +36,6 @@ The network was designed according to the following specifications:
 - **Wi-Fi**:
   - Configured access points and connected devices.
 
-## Project Files
-- `sec project final.pkt` — Complete Cisco Packet Tracer project file.
-- `Screenshot.png` — Network topology diagram.
-
-## Topology Overview
-![Network Topology](Screenshot.png)
-
 ## Requirements
 - Cisco Packet Tracer **8.x or newer** to open the `.pkt` file.
 
